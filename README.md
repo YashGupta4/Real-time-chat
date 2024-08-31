@@ -29,8 +29,14 @@ Welcome to the **Real-time Chat Application**! This project is a web-based chat 
 
 Check out the live demo: [Real-time Chat App](https://your-demo-link.com)
 
-![Chat App Screenshot]
-https://github.com/YashGupta4/Real-time-chat/blob/92a6bebb1355550334014693d551cfbdca09d86b/images/Img_1.png
+[Chat App Screenshot]
+
+![Img_1](https://github.com/user-attachments/assets/36ea2174-4d33-47e1-8077-19fd583b94f0)
+![Img_3](https://github.com/user-attachments/assets/f32a7a67-d7a3-45f5-99e1-bf60871d79c0)
+![Img_5](https://github.com/user-attachments/assets/20590dc8-47cc-4574-9aa9-666168ce507c)
+
+
+
 
 ## Installation
 
