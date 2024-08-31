@@ -135,4 +135,4 @@ For any inquiries or feedback, feel free to reach out:
 
 - **Yash Gupta**
 - GitHub: [YashGupta4](https://github.com/YashGupta4)
-- Email: your-email@example.com
+- Email: info.guptayash@gmail.com
