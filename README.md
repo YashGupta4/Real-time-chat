@@ -82,22 +82,21 @@ Before you begin, ensure you have the following installed:
 
 Here’s an overview of the key files and directories in this project:
 
-\`\`\`bash
-├── public
-│   ├── css
-│   │   └── style.css          # Custom styles for the chat app
-│   ├── js
-│   │   └── main.js            # Client-side JavaScript
-│   └── index.html             # Entry point for the app
-│
-├── utils
-│   ├── messages.js            # Utility functions for message formatting
-│   └── users.js               # Utility functions for user management
-│
-├── server.js                  # Main server file
-├── package.json               # Project dependencies and scripts
-└── README.md                  # You are here
-\`\`\`
+public/
+├── css/
+│   └── style.css          # Custom styles for the chat app
+├── js/
+│   └── main.js            # Client-side JavaScript
+└── index.html             # Entry point for the app
+
+utils/
+├── messages.js            # Utility functions for message formatting
+└── users.js               # Utility functions for user management
+
+server.js                  # Main server file
+package.json               # Project dependencies and scripts
+README.md                  # You are here
+
 
 ### Key Files:
 
