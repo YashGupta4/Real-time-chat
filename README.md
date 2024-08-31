@@ -25,9 +25,6 @@ Welcome to the **Real-time Chat Application**! This project is a web-based chat 
 - **Custom Notifications**: Receive notifications when a user joins or leaves the chat.
 - **Responsive Design**: The app is fully responsive and works across all devices.
 
-## Demo
-
-Check out the live demo: [Real-time Chat App](https://your-demo-link.com)
 
 [Chat App Screenshot]
 
