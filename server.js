@@ -30,7 +30,7 @@ io.on("connection", (socket) => {
     const user = userJoin(socket.id, username, room);
     socket.join(user.room);
     //Welcome current user
-    socket.emit("message", formatMessage(botName, "Welcome to Chat Cord")); // to user that is connecting
+    socket.emit("message", formatMessage(botName, "Welcome to ChatFlux")); // to user that is connecting
 
     //broadcast when a user connects to  everybody excpet the user that is connecting
     socket.broadcast.to(user.room).emit(
